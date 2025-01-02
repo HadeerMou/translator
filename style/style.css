@@ -3,8 +3,13 @@
   margin: 0em;
   box-sizing: border-box;
 }
+body {
+  background-image: url("background.jpg");
+  background-size: 700px;
+}
 div .finsh {
   height: 70% !important;
+  background-color: rgba(0, 0, 0, 0.653);
 }
 
 .area textarea {
